@@ -7,7 +7,7 @@ Minimal GraphQL based Compose Multiplatform sample created to try out https://gi
 <p/>
 
 This is pretty much all the code below.
-```
+```kotlin
 fun apolloClient() = ApolloClient.Builder()
     .serverUrl("https://swapi-graphql.netlify.app/graphql")
     .build()
