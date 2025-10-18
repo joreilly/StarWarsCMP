@@ -1,0 +1,1 @@
+Trying out https://github.com/apollographql/apollo-kotlin-compose
