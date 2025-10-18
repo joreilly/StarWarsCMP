@@ -1,6 +1,7 @@
 Compose Multiplatform sample created to try out https://github.com/apollographql/apollo-kotlin-compose.  That library currently just targets Android so project also limited to that for now.
 
-<img width="540" height="1200" alt="Screenshot_20251018_201317" src="https://github.com/user-attachments/assets/30c3a5f1-b30a-436d-bf4f-b0cf8005c3d5" />
+<img width="270" height="600" alt="Screenshot_20251018_201317" src="https://github.com/user-attachments/assets/9537bd64-fb11-4a0b-94a5-66b2578b0f60" />
+
 
 
 <p/>
