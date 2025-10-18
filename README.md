@@ -1,4 +1,4 @@
-GraphQL based Compose Multiplatform sample created to try out https://github.com/apollographql/apollo-kotlin-compose.  That library currently just targets Android so project also limited to that for now.
+Minimal GraphQL based Compose Multiplatform sample created to try out https://github.com/apollographql/apollo-kotlin-compose.  That library currently just targets Android so project also limited to that for now.
 
 <img width="270" height="600" alt="Screenshot_20251018_201317" src="https://github.com/user-attachments/assets/9537bd64-fb11-4a0b-94a5-66b2578b0f60" />
 
